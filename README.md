@@ -34,8 +34,8 @@ I find where the data breaks, fix it, and connect the fix to a decision. Below a
 ---
 
 ## Certifications
-ADsP — Advanced Data Analytics Semi-Professional, Korea Data Agency (Mar 2026)
-SQLD — SQL Developer, Korea Data Agency (Jun 2026)
+- ADsP — Advanced Data Analytics Semi-Professional, Korea Data Agency (Mar 2026)
+- SQLD — SQL Developer, Korea Data Agency (Jun 2026)
 
 ## Contact
 📧 joshuakim41888436@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-kim-87b478263/)
