@@ -1,7 +1,7 @@
 # Joshua Kim
 
 **Data Analyst — Product, Risk & Customer Analytics**
-UIUC Econometrics & Statistics · ADsP · SQLD · Seoul, South Korea
+UIUC Econometrics & Statistics · ADsP · SQLD · Chicago, United States
 
 I find where the data breaks, fix it, and connect the fix to a decision. Below are four projects — each includes the full methodology, validation, and an honest account of what the data doesn't support.
 
