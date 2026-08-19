@@ -38,4 +38,4 @@ I find where the data breaks, fix it, and connect the fix to a decision. Below a
 - SQLD — SQL Developer, Korea Data Agency (Jun 2026)
 
 ## Contact
-📧 joshuakim41888436@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-kim-87b478263/)
+📧 jkim43844@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/joshua-kim-87b478263/)
